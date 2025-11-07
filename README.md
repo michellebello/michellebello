@@ -15,5 +15,6 @@ I graduated from SUNY Plattsburgh with a Bachelors of Science in Biology, with m
 - Python 
   - PyTorch
 - MySQL
+- MongoDB
 - Linux 
 
