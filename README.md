@@ -13,8 +13,7 @@ I graduated from SUNY Plattsburgh with a Bachelors of Science in Biology, with m
   - NodeJS
   - React
 - Python 
-  - Jupiter Notebook
-  - Django
+  - PyTorch
 - MySQL
 - Linux 
 
