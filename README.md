@@ -6,9 +6,10 @@ I graduated from SUNY Plattsburgh with a Bachelors of Science in Biology, with m
 
 ### Skills
 - Java
+  - Jersey 
   - SpringBoot
   - Eclipse Jersey
-- Kotlin
+- TypeScript
 - JavaScript
   - NodeJS
   - React
@@ -16,5 +17,6 @@ I graduated from SUNY Plattsburgh with a Bachelors of Science in Biology, with m
   - PyTorch
 - MySQL
 - MongoDB
+- Kotlin
 - Linux 
 
